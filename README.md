@@ -1,8 +1,7 @@
 ## PaxfulClone Social Engineering App
 
 ### 📌 Overview
-This is a web application with two interfaces similar to Paxful actual web application. The app is designed for purposes of social engineering (educational purposes) to 
-to gather user credentials whon fall victim to this social engineering attack.
+This is a web application with two interfaces similar to Paxful actual web application. The app is designed for purposes of social engineering (educational purposes) to gather user credentials whom fall victim to this social engineering attack.
 
 <br>
 
